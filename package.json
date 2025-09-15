@@ -1,0 +1,21 @@
+{
+  "name": "hardhat-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@parity/hardhat-polkadot": "^0.1.10",
+    "@parity/hardhat-polkadot-node": "^0.1.5",
+    "@parity/hardhat-polkadot-resolc": "^0.1.8",
+    "hardhat": "^2.26.3",
+    "solc": "0.8.28",
+    "dotenv": "^16.5.0"
+  }
+}
